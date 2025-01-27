@@ -5,11 +5,13 @@
 <br>
 使用言語:Python<br>
 UI言語:日本語<br>
+必要:ffmpeg、yt_dlp<br>
 使用についてはYoutubeの規約に違反する可能性がありますので自己責任でご使用ください。<br>
 使用はPythonをインストールしたPC上で行ってください。<br>
 <br>
 Language:Python<br>
 UI language: Japanese<br>
+Need: ffmpeg, yt_dlp<br>
 Use of this program may violate Youtube's terms of use, so please use at your own risk.<br>
 Please use it on a PC with Python installed.<br>
 <br>
