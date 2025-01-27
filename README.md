@@ -1,8 +1,8 @@
 # Youtube-MP3-Downloader
 
-2025/1/27 動作確認
-2025/1/27 Operation check
-
+2025/1/27 動作確認<br>
+2025/1/27 Operation check<br>
+<br>
 使用言語:Python<br>
 UI言語:日本語<br>
 使用についてはYoutubeの規約に違反する可能性がありますので自己責任でご使用ください。<br>
